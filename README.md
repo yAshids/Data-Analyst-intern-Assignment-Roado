@@ -1,2 +1,18 @@
-# Data-Analyst-intern-Assignment-Roado
-This project analyzes real e-commerce data to uncover meaningful business insights that can improve customer experience, delivery performance, and revenue optimization. Raw datasets were sourced from the public Olist Brazilian E-commerce Dataset, cleaned, merged, and transformed into an analytical dataset performed using Python 
+# Data Analyst Intern - Take Home Assignment
+
+## ✅ Project Overview
+This project analyzes real E-commerce transaction data (Olist Brazilian Dataset) to:
+- Clean & preprocess raw multi-table data
+- Create a merged analytical dataset
+- Perform exploratory data analysis
+- Generate 5 business insights using visualizations
+
+---
+
+## ✅ Data Source
+Dataset used: **Olist Brazilian E-Commerce Public Dataset**  
+Kaggle link: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+Raw data available in repository or downloadable from Kaggle.
+
+---
